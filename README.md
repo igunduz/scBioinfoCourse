@@ -2,7 +2,7 @@
 
 Material used for TA sessions of the single-cell bioinformatics course offered in Winter 2022 Semester at Saarland University.
 
-# The time-line for the tutorials before and during the first project:
+### The time-line for the tutorials before and during the first project:
 
 *Week 1*: Introduction to R
 
