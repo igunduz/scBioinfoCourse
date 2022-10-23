@@ -37,3 +37,5 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+Week-1/data/data.csv
+Week-1/data/data.RDS
