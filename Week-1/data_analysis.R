@@ -1,3 +1,6 @@
+#remove everything 
+rm(list=ls()); gc()
+
 library(tidyverse)
 
 #read the data
