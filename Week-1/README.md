@@ -18,7 +18,7 @@
 
 1. [Tidyverse Exercise](https://github.com/bigbioinformatics/r-for-biologists/blob/main/Module%20%235%20-%20The%20Tidyverse/tidyverse_practice_problems.R)
 
-2. [Datacamp](www.datacamp.com)
+2. [Datacamp](datacamp.com)
 
 ### Disclaimer
 
