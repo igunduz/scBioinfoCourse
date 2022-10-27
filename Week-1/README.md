@@ -23,3 +23,7 @@
 ### Disclaimer
 
 Some of the code snippets were taken or created based on the sources above.
+
+### Setup Rstudio (optional, we're going to use conda environment)
+
+[Rstudio](https://www.youtube.com/watch?v=qXrj1wl4Rg0)
