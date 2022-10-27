@@ -95,6 +95,25 @@ numberGenerator <- function(number) {
 }
 numberGenerator(100)
 
+##############################################################################
+
+########################## LOOPS #############################################
+
+for (i in 1:10) {
+  print(i)
+}
+
+i <- 1
+while (i < 10) {
+  print(i)
+  i <- i + 1
+}
+
+if (!dir.exists("Week-1/data")) {
+  dir.create("Week-1/data")
+}else{
+  message("Directory already exists!")
+}
 ################################ APPLY FAMILY ################################
 
 # The apply family
@@ -109,6 +128,11 @@ my_function <- function(day) {
     return("No parties today... :(")
   }
 }
+
+my_function("Monday")
+my_function("Saturday")
+
+days_of_week <- c("Monday","Saturday")
 res_vec <- sapply(days_of_week, FUN = function(day) {
   if (day == "Saturday") {
     return("Party time! :)")
@@ -173,25 +197,6 @@ remove.packages("dplyr")
 #Call packages to environment
 library(tidyverse)
 
-##############################################################################
-
-########################## LOOPS #############################################
-
-for (i in 1:10) {
-  print(i)
-}
-
-i <- 1
-while (i < 10) {
-  print(i)
-  i <- i + 1
-}
-
-if (!dir.exists("Week-1/data")) {
-  dir.create("Week-1/data")
-}else{
-  message("Directory already exists!")
-}
 ##############################################################################
 library(GenomicRanges)
 
