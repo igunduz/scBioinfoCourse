@@ -2,7 +2,6 @@
 
 **import_data_R.R** contains ways to create *Seurat* object.
 
-
 ## Useful Sources 
 
 1. [Seurat Vignette](https://satijalab.org/seurat/articles/pbmc3k_tutorial.html)
@@ -14,14 +13,20 @@
 
 [Ubuntu Command Line](https://www.youtube.com/watch?v=LLlfLpvQg04)
 
+## Bonus Sources
+
+[Conversion from other formats to Seurat](https://satijalab.org/seurat/articles/conversion_vignette.html)
+
+[BIGBioinformatics Workshop](https://www.bigbioinformatics.org/intro-to-scrnaseq)
+
 ## Setup Project Environment
 
-1. Download *.yaml* file from the project email.
+1. Download *.yml* file from the project email.
 
-2. Open command line and, go to the directory contains *.yaml* file using:
+2. Open command line and, go to the directory contains *.yml* file using:
 
 ```
-cd /path/to/.yaml
+cd /path/to/.yml
 ```
 
 3. Initiate conda
@@ -30,7 +35,7 @@ cd /path/to/.yaml
 conda init
 ```
 
-4. Create conda environment using the *.yaml*
+4. Create conda environment using the *.yml*
 
 ```
 conda env create -f environment.yml
