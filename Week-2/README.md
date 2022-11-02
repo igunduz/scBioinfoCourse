@@ -69,6 +69,19 @@ the *environment_minimal.yml* file and install all packages by hand.
 
 ```
 conda create -n single-cell r-base=4.0.5 r-seurat=4.0.1
+conda activate single-cell
+R
+install.packages("remotes")
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+BiocManager::install("SingleR")
+BiocManager::install("celldex")
+remotes::install_github('chris-mcginnis-ucsf/DoubletFinder')
+remotes::install_github('cole-trapnell-lab/monocle3')
+remotes::install_github("wjawaid/enrichR")
+remotes::install_github('satijalab/seurat-wrappers')
+install.packages("tidyverse")
+install.packages("ggplot2")
 ```
 ### Disclaimer
 
