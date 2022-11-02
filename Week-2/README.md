@@ -65,6 +65,11 @@ devtools::install_github("sqjin/CellChat")
 9. If you have major difficulties setting up your system, you can as well set up your environment using
 the *environment_minimal.yml* file and install all packages by hand.
 
+10. For manual setup:
+
+```
+conda create -n single-cell r-base=4.0.5 r-seurat=4.0.1
+```
 ### Disclaimer
 
 Some of the code snippets were taken or created based on the sources above.
