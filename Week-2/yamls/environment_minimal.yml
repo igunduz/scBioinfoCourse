@@ -1,0 +1,7 @@
+name: single-cell
+channels: 
+  - conda-forge 
+  - r 
+dependencies: 
+  - r-base=4.0.5 
+  - r-seurat=4.0.1 

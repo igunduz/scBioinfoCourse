@@ -14,6 +14,8 @@
 
 4. [Computational Genomics With R](https://compgenomr.github.io/book/)
 
+5. [Plotting](https://towardsdatascience.com/data-visualization-with-ggplot2-db04c4956236?gi=f18e84bb2046)
+
 ## Useful Sources for exercise
 
 1. [Tidyverse Exercise](https://github.com/bigbioinformatics/r-for-biologists/blob/main/Module%20%235%20-%20The%20Tidyverse/tidyverse_practice_problems.R)
