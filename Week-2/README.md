@@ -83,6 +83,13 @@ remotes::install_github('satijalab/seurat-wrappers')
 install.packages("tidyverse")
 install.packages("ggplot2")
 ```
+
+## Important!
+If you're having issues to install *devtools*, you can try *remotes* instead.
+```
+install.packages("remotes")
+```
+
 ### Disclaimer
 
 Some of the code snippets were taken or created based on the sources above.
