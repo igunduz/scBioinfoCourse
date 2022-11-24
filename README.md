@@ -10,6 +10,8 @@ Materials used in TA sessions of the single-cell bioinformatics course offered i
 
 *Week 3*: Quality Control (Batch-effect, Thresholds, Doublets)
 
-*Week 4*: Embedding, DEGs, cell type-annotation with marker-genes
+*Week 4*: Embedding, DEGs, cell type-annotation with marker-genes (**Showed code-based examples related to the project, the scripts will not be shared.**)
 
 *Week 5*: Trajectory inference and cell-cell communication
+
+**PROJECT I DEADLINE: 26/11/22**
