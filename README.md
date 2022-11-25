@@ -14,4 +14,4 @@ Materials used in TA sessions of the single-cell bioinformatics course offered i
 
 *Week 5*: Trajectory inference and cell-cell communication
 
-**PROJECT I DEADLINE: 26/11/22**
+**PROJECT I DEADLINE: 25/11/22 23:59**
