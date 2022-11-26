@@ -15,3 +15,13 @@ Materials used in TA sessions of the single-cell bioinformatics course offered i
 *Week 5*: Trajectory inference and cell-cell communication
 
 **PROJECT I DEADLINE: 25/11/22 23:59**
+
+*Week 6* 1.12.2022: Installation of **ArchR**, Pre-Processing, evtl. Peak-Calling
+
+*Week 7* 08.12.2021: Peak-Calling/ Gene-Activity/TF motifs
+
+*Week 8* 15.12.2021: Differential Accessibility and Footprints
+
+*Week 9* 22.12.2022: Online Office-Hour
+
+**PROJECT II DEADLINE: 23/12/2022  23:59**
