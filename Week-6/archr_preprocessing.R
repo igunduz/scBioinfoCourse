@@ -43,6 +43,7 @@ ArrowFiles <- createArrowFiles(
   minFrags  = 1000, 
   addTileMat = TRUE,
   addGeneScoreMat = TRUE)
+#NOTE: this will be temp saving, we will move those arrows into project folder later
 
 #show the files
 ArrowFiles
@@ -62,6 +63,7 @@ project <- ArchR::ArchRProject(
   copyArrows = TRUE, #save arrow files as arrow
   showLogo = FALSE  
 )
+#Now you can delete the temp arrows since we have them within project folder
 
 #Once you created an ArchR project, you can load it via this function
 #project <- ArchR::loadArchRProject(path = "data/project/",showLogo = F)
@@ -71,7 +73,7 @@ project
 
 #How many cells does your project include?
 #What is the median TSS-value and the median of the number of fragments?
-#What are the dimensions of your dataset?
+#What are the dimensions of your dataset? (Explore a little)
 
 #To save ArchR project
 saveArchRProject(ArchRProj = project, outputDirectory = "data/project/", load = FALSE)
