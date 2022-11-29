@@ -8,7 +8,8 @@
 # User-specific files
 .Ruserdata
 Week-2/data/
-
+/data/
+Week-6/data/
 # Example code in package build process
 *-Ex.R
 
