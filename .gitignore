@@ -10,6 +10,9 @@
 Week-2/data/
 /data/
 Week-6/data/
+Week-6/ArchRLogs/
+Week-6/QualityControl/
+        
 # Example code in package build process
 *-Ex.R
 
