@@ -26,7 +26,7 @@ library(dplyr)
 #https://www.archrproject.com/index.html
 
 addArchRGenome("hg19") # set the reference genome
-addArchRThreads(threads = cores) # set the cores
+addArchRThreads(threads = 10) # set the cores
 #NOTE!! Parallization won't work in Windows!!
 
 #list the files
@@ -66,7 +66,7 @@ project <- ArchR::ArchRProject(
 #Now you can delete the temp arrows since we have them within project folder
 
 #Once you created an ArchR project, you can load it via this function
-#project <- ArchR::loadArchRProject(path = "data/project/",showLogo = F)
+project <- ArchR::loadArchRProject(path = "data/project/",showLogo = F)
 
 
 project
