@@ -18,10 +18,10 @@ Materials used in TA sessions of the single-cell bioinformatics course offered i
 
 *Week 6* **1.12.2022**: Installation of **ArchR**, Pre-Processing, evtl. Peak-Calling
 
-*Week 7* **08.12.2021**: Peak-Calling/ Gene-Activity/TF motifs
+*Week 7* **08.12.2021**: Peak-Calling/ Gene-Activity/TF motifs, differential Accessibility and Footprints
 
-*Week 8* *15.12.2021*: Differential Accessibility and Footprints
+*Week 8* *15.12.2021*: Office hour (Irem)
 
-*Week 9* **22.12.2022**: Online Office-Hour (M.Sc. Friederike Grandke)
+*Week 9* **22.12.2022**: Online Office-Hour (Friederike)
 
 **PROJECT II DEADLINE: 23/12/2022  23:59**
