@@ -25,3 +25,9 @@ Materials used in TA sessions of the single-cell bioinformatics course offered i
 *Week 9* **22.12.2022**: Online Office-Hour (Friederike)
 
 **PROJECT II DEADLINE: 23/12/2022  23:59**
+
+*Week 10* **12.01.2022**
+
+*Week 11* **19.01.2022**
+
+**PROJECT III DEADLINE: 27/01/2023  23:59**
