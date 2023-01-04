@@ -26,9 +26,9 @@ Materials used in TA sessions of the single-cell bioinformatics course offered i
 
 **PROJECT II DEADLINE: 23/12/2022  23:59**
 
-*Week 10* **05.01.2022** 
+*Week 10* **05.01.2022:**  Setup, Pre-processing, differential analysis
 
-*Week 11* **12.01.2022**
+*Week 11* **12.01.2022** Advanced analysis methodologies
 
 *Week 12* **19.01.2022** Office hour
 
