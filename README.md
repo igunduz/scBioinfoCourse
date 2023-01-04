@@ -20,14 +20,16 @@ Materials used in TA sessions of the single-cell bioinformatics course offered i
 
 *Week 7* **08.12.2021**: Peak-Calling/ Gene-Activity/TF motifs, differential Accessibility and Footprints
 
-*Week 8* *15.12.2021*: Office hour (Irem)
+*Week 8* *15.12.2021*: Office hour 
 
-*Week 9* **22.12.2022**: Online Office-Hour (Friederike)
+*Week 9* **22.12.2022**: Online Office-Hour 
 
 **PROJECT II DEADLINE: 23/12/2022  23:59**
 
-*Week 10* **12.01.2022**
+*Week 10* **05.01.2022** 
 
-*Week 11* **19.01.2022**
+*Week 11* **12.01.2022**
+
+*Week 12* **19.01.2022** Office hour
 
 **PROJECT III DEADLINE: 27/01/2023  23:59**
